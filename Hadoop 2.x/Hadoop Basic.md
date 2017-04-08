@@ -10,14 +10,14 @@
         GFS          ->     HDFS
         MapReduce    ->     MapReduce
         BigTable     ->     HBase
-    Hadoop was created by Doug Cutting, the creator of Apache Lucene, the widely used text search library. 
-    Hadoop has its origins in Apache Nutch, an open source web search engine, itself a part of the Lucene project.
+Hadoop was created by Doug Cutting, the creator of Apache Lucene, the widely used text search library. 
+Hadoop has its origins in Apache Nutch, an open source web search engine, itself a part of the Lucene project.
     
 ## Hadoop Modules
-    Hadoop Common: The common utilities that support the other Hadoop modules.
-    Hadoop Distributed File System (HDFS™): A distributed file system that provides high-throughput access to application data.
-    Hadoop YARN: A framework for job scheduling and cluster resource management.
-    Hadoop MapReduce: A Y   ARN-based system for parallel processing of large data sets.
+Hadoop Common: The common utilities that support the other Hadoop modules.
+Hadoop Distributed File System (HDFS™): A distributed file system that provides high-throughput access to application data.
+Hadoop YARN: A framework for job scheduling and cluster resource management.
+Hadoop MapReduce: A Y   ARN-based system for parallel processing of large data sets.
 
 ## Hadoop-Related Projects 
     HBase™: A scalable, distributed database that supports structured data storage for large tables.
