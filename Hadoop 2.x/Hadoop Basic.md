@@ -1,11 +1,9 @@
 # Hadoop Basic
 
 ## Prerequisites
-
-    * Linux Basic
-    * Java[Option]
-    * Sql[Option]
-
+* Linux Basic
+* Java[Option]
+* Sql[Option]
 
 ## Hadoop Origin
     Google
